@@ -8,7 +8,7 @@
         "path": "hello-x",
         "release-type": "python"
       },
-      "y": {
+      "hello-y": {
         "path": "hello-y",
         "release-type": "python"
       }
