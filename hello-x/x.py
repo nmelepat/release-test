@@ -6,3 +6,4 @@ def greet():
      
 if __name__ == "__main__":
     greet()
+# This code is a simple greeting function that prints the current date.
