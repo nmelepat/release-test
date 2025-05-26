@@ -8,7 +8,7 @@ def greet():
         "\033[94m", # blue
         "\033[92m", # green
         "\033[93m", # yellow
-        "\033[91m", # red
+   
     ]
     
     # Funky emoji collection
