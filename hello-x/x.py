@@ -4,6 +4,7 @@ import random
 def get_message_of_the_day():
     messages = [
         "Make today amazing!",
+        "Believe in yourself and all that you are.",
         "Every day is a new opportunity.",
         "Keep learning, keep growing.",
         "Do something today that your future self will thank you for.",
