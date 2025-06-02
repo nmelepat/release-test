@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/nmelepat/release-test/compare/hello-x@v0.1.0...hello-x@v0.2.0) (2025-06-02)
+
+
+### Features
+
+* add message of the day ([c8517d9](https://github.com/nmelepat/release-test/commit/c8517d9941b705e89e82903ae9588f8c7cd96b3c))
+
 ## 0.1.0 (2025-05-26)
 
 
