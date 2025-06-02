@@ -3,6 +3,9 @@
     "include-v-in-tag": true,
     "tag-separator": "@",
     "separate-pull-requests": true,
+    "pull-request-title-pattern": "{{component}}: release {{version}}", 
+    "pull-request-header": "This is an automated PR to release a new version of the {{component}}", 
+    "pull-request-footer": "When ready to release, please merge this PR. The release will be deployed automatically.",
     "packages": {
       "hello-x": {
         "path": "hello-x",
