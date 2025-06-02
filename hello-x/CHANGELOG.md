@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/nmelepat/release-test/compare/hello-x@v0.2.1...hello-x@v0.3.0) (2025-06-02)
+
+
+### Features
+
+* add more motd ([2e5ddd4](https://github.com/nmelepat/release-test/commit/2e5ddd469cb57fa02269933f894502d3aa870a03))
+
 ## [0.2.1](https://github.com/nmelepat/release-test/compare/hello-x@v0.2.0...hello-x@v0.2.1) (2025-06-02)
 
 
