@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/nmelepat/release-test/compare/hello-x@v0.2.0...hello-x@v0.2.1) (2025-06-02)
+
+
+### Documentation
+
+* little docs ([92d1224](https://github.com/nmelepat/release-test/commit/92d122484414d6bd6ff16f9f1e51297a85f8208f))
+
 ## [0.2.0](https://github.com/nmelepat/release-test/compare/hello-x@v0.1.0...hello-x@v0.2.0) (2025-06-02)
 
 
