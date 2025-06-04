@@ -9,6 +9,7 @@ def get_message_of_the_day():
         "Keep those vibes positive and flowing!",
         "Be as awesome as your code!",
         "Rock this day like nobody's watching!"
+        "Let your creativity run wild!",
     ]
     return random.choice(messages)
 
