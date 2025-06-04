@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/nmelepat/release-test/compare/hello-y@v0.2.0...hello-y@v0.3.0) (2025-06-04)
+
+
+### Features
+
+* add more motd ([436d796](https://github.com/nmelepat/release-test/commit/436d7968c2918b0083351274ef72fec0d977b1b9))
+
 ## [0.2.0](https://github.com/nmelepat/release-test/compare/hello-y@v0.1.1...hello-y@v0.2.0) (2025-06-02)
 
 
